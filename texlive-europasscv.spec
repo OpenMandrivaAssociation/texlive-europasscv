@@ -3,7 +3,7 @@ Version:	56829
 Release:	2
 Summary:	Unofficial class for the new version of the Europass curriculum vitae
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/europasscv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/europasscv
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/europasscv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/europasscv.doc.r%{version}.tar.xz
